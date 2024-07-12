@@ -1,0 +1,32 @@
+Work and Energy
+Seorang pelari berlari sejauh 5 kilometer. Jika ia menghasilkan daya rata-rata 150 watt, berapa energi total yang dikonsumsi oleh pelari tersebut dalam joule? Hitung energi kinetiknya jika ia memiliki massa 60 kg dan berlari dengan kecepatan rata-rata 5 m/s.
+Jawaban:
+Pekerjaan yang Dilakukan:
+dapat dihitung dengan rumus:
+𝑊 = 𝑃 ×𝑡
+Di mana 
+P adalah daya rata-rata dan 
+t adalah waktu yang diperlukan. Dalam kasus ini, daya rata-rata adalah 150 watt dan waktu dapat dihitung dari kecepatan dan jarak. Jika kecepatan rata-rata 
+v adalah 5 m/s, waktu 
+t adalah 5 km 
+Konversikan jarak ke meter: 
+5 km = 5000 m
+Maka, 𝑡 =5000 m
+5 m/s = 1000 s
+t = 5 m/s
+5000 m =1000 s.
+Sehingga,
+𝑊 = 150
+W = 150 W × 1000 s=150000 J
+Jadi, pelari melakukan pekerjaan sebesar 150000 joule.
+
+Energi Kinetik: 
+KE dapat dihitung dengan rumus:
+𝐾𝐸 = 1/2 𝑚𝑣2
+Di mana 
+m adalah massa pelari dan 
+v adalah kecepatan.
+Untuk pelari dengan massa 
+𝑚 = 60 kg dan kecepatan 𝑣 = 5 m/s
+𝐾𝐸 = 1/2 × 60 kg × (5m/s)2 = 1/2 × 60 × 25 = 750 J
+Jadi, energi kinetik pelari adalah 750 joule.

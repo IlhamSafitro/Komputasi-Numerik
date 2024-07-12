@@ -1,0 +1,29 @@
+Kirchhoff’s Law
+Soal:
+Dalam sebuah rangkaian listrik terdapat tiga simpul dan tiga loop dengan konfigurasi seperti berikut:
+Sumber tegangan 1 (V1) sebesar 12V terhubung dengan resistor R1 = 6Ω dan R2 = 4Ω dalam satu loop.
+Sumber tegangan 2 (V2) sebesar 9V terhubung dengan resistor R3 = 8Ω dan R2 = 4Ω dalam loop kedua.
+Loop ketiga hanya terdiri dari R1 dan R3.
+Hitunglah arus yang mengalir melalui masing-masing resistor menggunakan Hukum Kirchhoff dengan penyelesaian komputasi numerik.
+Jawaban:
+Untuk menyelesaikan masalah ini, kita akan menggunakan persamaan matriks berdasarkan hukum Kirchhoff. Pertama, kita harus menuliskan persamaan untuk setiap loop.
+Persamaan Loop:
+𝑉1 − 𝐼1𝑅1 − 𝐼2𝑅2 = 0
+𝑉2 − 𝐼2𝑅2 − 𝐼3𝑅3= 0
+𝐼1𝑅1 − 𝐼3𝑅3 = 0
+
+Dimana:
+𝑉1 = 12 𝑉
+𝑉2 = 9 𝑉
+𝑅1 = 6 Ω
+𝑅2 = 4 Ω
+𝑅3 = 8 Ω
+
+Persamaan Matriks:
+𝑅1 𝑅2 0		𝐼1		𝑉1
+0  𝑅2 𝑅3	𝐼2	=	𝑉2
+𝑅1 0  −𝑅3	𝐼3		0
+Masukkan nilai:
+6 4 0		𝐼1		12
+0 4 8		𝐼2	=	9
+6 0 −8		𝐼3		0
